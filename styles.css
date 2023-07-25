@@ -6,4 +6,8 @@ body {
 h1 {color:rgb(255, 139, 197); background-color: beige; font-family: 'Alike Angular'}
 h2 {color:rgb(255, 139, 197); font-family: 'Alike Angular'}
 h3 {color:rgb(255, 139, 197); font-family: 'Alike Angular'}
+h4 {color:rgb(255, 139, 197); font-family: 'Alike Angular'}
+h5 {color:rgb(255, 139, 197); font-family: 'Alike Angular'}
 nav{background-color: palegreen;}
+nav a{color: rgb(255, 139, 197):}
+nav{color:rgb(255, 139, 197)}
