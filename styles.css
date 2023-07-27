@@ -11,10 +11,10 @@ h5 {color:rgb(255, 139, 197); font-family: 'Alike Angular'}
 nav {
     padding:10px;
     margin-bottom:30px;
-    background-color:beige;
+    background-color:lightcyan;
     }
-nav a {color: lightcyan;}
-nav {color:lightcyan;}
+nav a {color: darkslategray;}
+nav {color:darkslategray;}
 nav a:hover {background-color:lavender;}
 div{
     border: 1px solid rgb(255, 139, 197);
