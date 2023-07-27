@@ -8,7 +8,10 @@ h2 {color:rgb(255, 139, 197); font-family: 'Alike Angular'}
 h3 {color:rgb(255, 139, 197); font-family: 'Alike Angular'}
 h4 {color:rgb(255, 139, 197); font-family: 'Alike Angular'}
 h5 {color:rgb(255, 139, 197); font-family: 'Alike Angular'}
-nav {background-color:beige;}
+nav {
+    padding:10px;
+    margin-bottom:30px
+    background-color:beige;}
 nav a {color: rgb(152, 211, 231);}
 nav {color:rgb(152, 211, 231);}
 nav a:hover {background-color:lavender;}
