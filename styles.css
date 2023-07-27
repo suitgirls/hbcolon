@@ -11,3 +11,4 @@ h5 {color:rgb(255, 139, 197); font-family: 'Alike Angular'}
 nav {background-color:beige;}
 nav a {color: lightblue;}
 nav {color:lightblue;}
+nav a:hover {background-color: beige;}
